@@ -1,0 +1,42 @@
+div.{
+    font-size: large;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+}
+
+p{
+text-decoration: underline;
+font-size: larger;
+letter-spacing: ;
+
+}
+
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head> 
+<title>Übung5</title>
+</head>
+
+<body>
+<link rel="stylesheet" href="Übung2.css"
+
+
+<section id="product-information">      </section>
+<div class="flex-container">        </div>
+<div class="flex-item-1"></div>
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>
